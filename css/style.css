@@ -76,7 +76,7 @@ body {
 }
 
 .home-section {
-   background-image: url("../../_data/bg-shape.svg");
+   background-image: url("../data/bg-shape.svg");
    background-repeat: no-repeat;
    background-position: right top;
    background-size: 50%;
@@ -132,14 +132,14 @@ body {
 }
 
 .bio-content-container {
-   background-image: url("../../_data/bg-2.svg");
+   background-image: url("../data/bg-2.svg");
    background-size: cover;
    background-position: left top;
    background-repeat: no-repeat;
 }
 
 .service-section {
-   background-image: url("../../_data/bg-3.svg");
+   background-image: url("../data/bg-3.svg");
    background-size: cover;
    background-repeat: no-repeat;
 }
@@ -183,7 +183,7 @@ body {
 }
 
 .footer {
-   background-image: url("../../_data/bg-contact.svg");
+   background-image: url("../data/bg-contact.svg");
    background-size: cover;
    background-repeat: no-repeat;
    padding: 170px 0 50px 0;
